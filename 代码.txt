@@ -1,0 +1,10 @@
+#拉取
+```
+git pull
+```
+#推送
+```
+git add .
+git commit -m "中文说明"
+git push
+```
